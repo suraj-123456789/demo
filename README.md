@@ -4,3 +4,4 @@
 2. Create a virtual environment.
 3. Install the required dependencies.
 4. Run the application.
+5. start
