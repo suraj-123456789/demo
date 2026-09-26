@@ -1,0 +1,5 @@
+git init - Initialize a new Git repository.
+git status - Shows the current status of the working directory.
+git add . - Stages all modified and new files.
+git commit -m "message" - Saves the staged changes with a commit message.
+git push - Pushes local commits to the remote repository.
